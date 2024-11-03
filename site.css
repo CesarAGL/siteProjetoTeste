@@ -81,5 +81,10 @@ img#robo4 {
     position: absolute;
     top: 1600px;
     left: 1000px;
-
+}
+img#logo {
+    width: 60px;
+}
+ul#diferente {
+    list-style-type: none;
 }

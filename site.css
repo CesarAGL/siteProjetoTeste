@@ -85,9 +85,33 @@ img#robo4 {
 img#logo {
     width: 60px;
 }
-ul#diferente {
+div#diferente {
     list-style-type: none;
 }
 img#ifpr {
     width: 100px;
+}
+img#engrena1 {
+    width: 250px;
+    position: absolute;
+    top: 100px;
+    left: 1200px;
+}
+img#engrena2 {
+    width: 250px;
+    position: absolute;
+    top: 600px;
+    left: 1200px;
+}
+img#engrena3 {
+    width: 250px;
+    position: absolute;
+    top: 1000px;
+    left: 1200px;
+}
+img#engrena4 {
+    width: 250px;
+    position: absolute;
+    top: 1500px;
+    left: 1200px;
 }

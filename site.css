@@ -87,6 +87,7 @@ img#logo {
 }
 div#diferente {
     list-style-type: none;
+    background-image: url(img/verde.jpg);
 }
 img#ifpr {
     width: 100px;

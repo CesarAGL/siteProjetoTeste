@@ -1,0 +1,85 @@
+ul {
+    margin: 0;
+    padding: 0;
+    background-color: green;
+    text-decoration: none;
+    
+}
+li#vai {
+    display: inline;
+    padding: 70px;
+    text-align: center;
+    text-decoration: none;
+    background-image: url(img2/fundo.png);
+    border: none;
+    border-radius: 10px;
+    background-size: 300px;
+    background-repeat: no-repeat;
+    color: black;
+    background-position: 8px;
+}
+img#coisa {
+    width: 45px;
+    transform: translate(7px, 14px);
+    
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div {
+    width: 800px;
+    height: 400px;
+    background-color: green;
+    display: flex;
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+    gap: 20px;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+
+}
+p {
+    font-size: 1em;
+    max-width: 400px;
+    line-height: 1.5;
+}
+img#robo {
+    width: 300px;
+    position: absolute;
+    top: 270px;
+    left: 1000px;
+
+}
+img#robo2 {
+    width: 300px;
+    position: absolute;
+    top: 700px;
+    left: 1000px;
+
+}
+img#robo3 {
+    width: 300px;
+    position: absolute;
+    top: 1150px;
+    left: 1000px;
+
+}
+img#robo4 {
+    width: 300px;
+    position: absolute;
+    top: 1600px;
+    left: 1000px;
+
+}
